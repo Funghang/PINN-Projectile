@@ -8,8 +8,8 @@ initial condition h(0) = h0.
 pip install -r requirements.txt
 
 ## Usage
-python train.py     # trains and saves model/
-python predict.py   # predicts height at t = 1.5 s
+python train.py     # (trains and saves model)
+python predict.py   # (predicts height at t = 1.5 s)
 
 ## Result
 ![Result](results.png)
