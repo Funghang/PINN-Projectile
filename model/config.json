@@ -1,0 +1,15 @@
+{
+  "n_hidden": 20,
+  "physics": {
+    "g": 9.8,
+    "h0": 1.0,
+    "v0": 10.0
+  },
+  "loss_weights": {
+    "lambda_data": 1.0,
+    "lambda_ode": 9.0,
+    "lambda_ic": 1.0
+  },
+  "best_step": 4804,
+  "best_total_loss": 0.4779217839241028
+}
